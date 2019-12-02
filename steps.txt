@@ -1,0 +1,24 @@
+Run the program in Linux environment
+
+Download the given datasets from the url http://www.philharmonia.co.uk/explore/sound_samples
+-celio
+-clarinet
+-flute
+-piano
+-violin
+
+and then unzip them in data folder in their respective names. cello data is pre-installed.
+
+Runs on python 2. Check the python version. Make sure it is python 2(2.7) --> python --version
+
+Run all the commands written in commands.txt in terminal.
+
+Then, open the instrument classifier directory in terminal, type --> python ui.py
+
+An user interface is opened.
+
+Choose the music instrument file in test folder. click on predict.
+
+Read the README file and delete it.
+
+
