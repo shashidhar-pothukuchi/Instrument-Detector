@@ -8,7 +8,7 @@ filename=''
 count=0
 
 def choosefile():
-    filename = filedialog.askopenfilename(initialdir = "~",title = "Select file",filetypes = (("mp3 files","*.mp3"),("wav files","*.wav")))
+    filename = filedialog.askopenfilename(initialdir = "",title = "Select file",filetypes = (("mp3 files","*.mp3"),("wav files","*.wav")))
     print (filename)
     enterText.insert(0, filename)
 

@@ -6,4 +6,5 @@ pip install sklearn
 
 apt-get install python3-tk
 apt-get install python-support
-sudo apt-get install libav-tools
+sudo apt-get install libav-tools-->this wont work
+sudo apt-get install ffmpeg
