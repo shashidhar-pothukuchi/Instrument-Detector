@@ -6,7 +6,6 @@ Currently supported types are cello, clarinet, flute, violin and piano. The audi
 
 A user interface is included for ease of usage.
 
-Created by Ivy Zheng, Weiyuan Deng and Yuchen Rao from Northwestern University.
 
 
 ## Dataset
